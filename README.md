@@ -1,1 +1,1 @@
-# lung-diseasw-image-classification
+# live-image-object-detetion
